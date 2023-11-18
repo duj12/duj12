@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @duj12. I graduated from Tsinghua University, Department of Engineering Physics. 
-- 👀 I’m interested in Speech and Spoken Language Processing and Understanding.
-- 🌱 I mainly work on Automatic Speech Recognition, Voice Activity Detection, Key Word Spotting, Language Modeling and related fields.
+- 👀 I’m interested in Speech and Spoken Language Processing and Understanding, and Voice Generation.
+- 🌱 I mainly focus on Automatic Speech Recognition, Voice Activity Detection, Key Word Spotting, Language Modeling and related fields.
+- ⏳ Now I'm working on Text to Speech, Zero-Shot Speech Synthesis, and Voice Cloning.
 - 💞️ Hoping to communicate with you in the fields of deep learning, generative artificial intelligence, and large language models, and so on.
 - 📫 How to reach me: thuduj12@163.com.
 
