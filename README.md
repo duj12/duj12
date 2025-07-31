@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @duj12. I graduated from Tsinghua University, Department of Engineering Physics. 
-- 👀 I’m interested in Speech and Spoken Language Processing and Understanding, and Voice Generation.
-- 🌱 I mainly focus on Automatic Speech Recognition, Voice Activity Detection, Key Word Spotting, Language Modeling and related fields.
-- ⏳ Now I'm working on Text to Speech, Zero-Shot Speech Synthesis, and Voice Cloning.
-- 💞️ Hoping to communicate with you in the fields of deep learning, generative artificial intelligence, and large language models, and so on.
-- 📫 How to reach me: thuduj12@163.com.
+👋 Hi, I'm @duj12, a graduate from Tsinghua University's Department of Engineering Physics.
+
+👀 My research interests lie in Speech and Spoken Language Processing, Understanding, and Generation.
+
+🌱 My primary focus areas include Automatic Speech Recognition (ASR), Voice Activity Detection (VAD), Keyword Spotting (KWS), and Language Modeling.
+
+⏳ Currently, I'm actively working on Text-to-Speech (TTS), Zero-Shot Speech Synthesis, and Voice Cloning technologies.
+
+💞️ I look forward to collaborating and exchanging ideas in fields such as deep learning, generative artificial intelligence, and large language models (LLMs).
+
+📫 How to reach me: thuduj12@163.com.
 
 <!---
 duj12/duj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
